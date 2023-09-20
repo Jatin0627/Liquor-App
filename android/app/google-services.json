@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045418787757",
+    "project_id": "liquor-98ca8",
+    "storage_bucket": "liquor-98ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045418787757:android:26e04b1a672c422af9d724",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045418787757-3i0cor6992aq0i8lfioh0b75lbvjju80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGSqCUmPQ_cLrB1lRBZf6pBJOikmKHQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045418787757-3i0cor6992aq0i8lfioh0b75lbvjju80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
